@@ -2,6 +2,7 @@
 - 🔭 I’m currently working as a backend intern at @GreedyGame
 - 💬 Ask me about Django, Python, Golang, C++
 - 📫 How to reach me: anand.2@iitj.ac.in
+- Checkout my [resume](resume/Harsh_Anand_Resume.pdf)
 
 <!--
 **harsh-not-haarsh/harsh-not-haarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
