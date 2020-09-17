@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a backend intern at @GreedyGame
+- 🔭 Junior at @iitjodhpur
+- 🔭 Upcoming Software-Intern at @codenation-dev
+- 🔭 Former backend intern at @GreedyGame
 - 💬 Ask me about Django, Python, Golang, C++
 - 📫 How to reach me: anand.2@iitj.ac.in
 - Checkout my [résumé](https://github.com/harsh-not-haarsh/resume/blob/master/Harsh_Anand_Resume.pdf)
