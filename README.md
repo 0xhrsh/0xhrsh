@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Junior at @iitjodhpur
-- 🔭 Upcoming Software-Intern at @codenation-dev
+- 🔭 SDE-Intern at @trilogy-group
 - 🔭 Former backend intern at @GreedyGame
 - 💬 Ask me about Django, Python, Golang, C++
 - 📫 How to reach me: anand.2@iitj.ac.in
