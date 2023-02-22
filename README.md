@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Cloud Stuff @ Google
+- 🔭 Cloud Stuff @Google
 - 🔭 Deep Stuff @Engagebud
 - 🔭 Prev: @trilogy-group, @0chain, @GreedyGame
 - 💬 Ask me about Cloud, AR, Blockchain, web-systems, apps and startups!
